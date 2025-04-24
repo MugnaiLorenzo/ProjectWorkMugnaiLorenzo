@@ -1,0 +1,3 @@
+C:/Users/loren/CLionProjects/ProjectWorkMugnaiLorenzo/cmake-build-debug/CMakeFiles/ProjectWorkMugnaiLorenzo.dir
+C:/Users/loren/CLionProjects/ProjectWorkMugnaiLorenzo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/loren/CLionProjects/ProjectWorkMugnaiLorenzo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
