@@ -92,3 +92,13 @@
 17	6051	7657392070465252	CMakeFiles/ProjectWorkMugnaiLorenzo.dir/main.cu.obj	872fa7d985b1e59d
 6051	6271	7657392130797508	CMakeFiles/ProjectWorkMugnaiLorenzo.dir/cmake_device_link.obj	71feea20f9a83d10
 6271	6475	7657392133007954	ProjectWorkMugnaiLorenzo.exe	4b82e0f76a42cafc
+55	4895	7672039906974559	CMakeFiles/ProjectWorkMugnaiLorenzo.dir/ResizeImageParallel.cu.obj	c834e18ba52b1fc9
+4895	5305	7672039955366351	CMakeFiles/ProjectWorkMugnaiLorenzo.dir/cmake_device_link.obj	71feea20f9a83d10
+5305	5624	7672039959469245	ProjectWorkMugnaiLorenzo.exe	4b82e0f76a42cafc
+19	3088	7672087468816311	CMakeFiles/ProjectWorkMugnaiLorenzo.dir/ResizeImageParallel.cu.obj	c834e18ba52b1fc9
+3089	3289	7672087499516782	CMakeFiles/ProjectWorkMugnaiLorenzo.dir/cmake_device_link.obj	71feea20f9a83d10
+3289	3524	7672087501515050	ProjectWorkMugnaiLorenzo.exe	4b82e0f76a42cafc
+238	4541	7676439140854423	CMakeFiles/ProjectWorkMugnaiLorenzo.dir/ResizeImageParallel.cu.obj	c834e18ba52b1fc9
+54	7138	7676439139024234	CMakeFiles/ProjectWorkMugnaiLorenzo.dir/main.cu.obj	872fa7d985b1e59d
+7139	7571	7676439209859798	CMakeFiles/ProjectWorkMugnaiLorenzo.dir/cmake_device_link.obj	71feea20f9a83d10
+7571	7854	7676439214188393	ProjectWorkMugnaiLorenzo.exe	4b82e0f76a42cafc
