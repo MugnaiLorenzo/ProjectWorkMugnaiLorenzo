@@ -2,7 +2,6 @@
 #include <cuda_runtime.h>
 #include <iostream>
 
-// Maximum kernel size: 64x64
 __constant__ float d_kernel_const[5 * 5];
 
 __device__ float clamp(float val) {
