@@ -28,38 +28,52 @@ Ogni grafico mostra l'evoluzione dello **speedup** o del **tempo di esecuzione**
 Sono stati testati entrambi gli approcci su immagini con diverse risoluzioni, da $480 \times 270$ fino a $7680 \times 4320$ (8K). I risultati mostrano il comportamento in termini di **speedup** e **tempo assoluto di esecuzione** al variare del numero di thread CUDA.
 
 ---
-
 ### 🔹 SpeedUp su immagini piccole
 
-![SpeedUp 480p](Grafici/speedup_480x270.png)
+<p align="center">
+  <img src="Grafici/speedup_480x270.png" alt="SpeedUp 480p" width="60%">
+</p>
 
 ---
 
 ### 🔹 SpeedUp su immagini full HD
 
-![SpeedUp 1080p](Grafici/speedup_1920x1080.png)  
+<p align="center">
+  <img src="Grafici/speedup_1920x1080.png" alt="SpeedUp 1080p" width="60%">
+</p>
 
-### 🔹 SpeedUp su immagini full 4K
+---
 
-![SpeedUp 4K](Grafici/speedup_4k.png)
+### 🔹 SpeedUp su immagini 4K
+
+<p align="center">
+  <img src="Grafici/speedup_4k.png" alt="SpeedUp 4K" width="60%">
+</p>
 
 ---
 
 ### 🔹 SpeedUp su immagini 8K
 
-![SpeedUp 8K](Grafici/speedup_8k.png)
+<p align="center">
+  <img src="Grafici/speedup_8k.png" alt="SpeedUp 8K" width="60%">
+</p>
 
 ---
 
 ### 🔹 SpeedUp medio per tipo di esecuzione
 
-![SpeedUp Medio](Grafici/speedup_medio.png)
+<p align="center">
+  <img src="Grafici/speedup_medio.png" alt="SpeedUp Medio" width="60%">
+</p>
 
 ---
 
 ### 🔹 Tempo medio assoluto
 
-![Tempo Medio](Grafici/tempo_medio.png)
+<p align="center">
+  <img src="Grafici/tempo_medio.png" alt="Tempo Medio" width="60%">
+</p>
+
 
 ## 🧠 Conclusioni
 
